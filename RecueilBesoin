@@ -1,0 +1,12 @@
+Système de Gestion de Bibliothèque
+
+Etudiant :
+- Rechercher un livre
+- Consulter la disponibilité d’un livre
+- Réserver un livre
+- Consulter historique des réservation
+
+Bibliothécaire :
+- Gérer les retours de livres
+- Mettre à jour la disponibilité d’un livre
+- Gérer les notifications de retard
